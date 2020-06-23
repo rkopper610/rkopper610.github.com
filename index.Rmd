@@ -1,5 +1,5 @@
 ---
-title: "Ryan Kopper's Website"
+title: "Ryan Kopper [Bio]"
 output:
   html_document:
     theme: spacelab
