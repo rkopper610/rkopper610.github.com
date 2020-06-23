@@ -1,9 +1,16 @@
 ---
-title: "Ryan Kopper's website"
+title: "Ryan Kopper's Website"
 output:
   html_document:
     theme: spacelab
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
+
+![](img/Jane.png){width=400px}
+
+
 ## About
 
 I’ve loved being in nature since I was young, which led me to major in environmental conservation as an undergraduate. After college, I moved to Ethiopia as a Peace Corps volunteer and worked within the agriculture and forestry sectors. I extended my time as a volunteer and worked with Catholic Relief services to engage with the USAID funded Farmer to farmer program. As I continued to work in Ethiopia, I became more interested in the complex interaction between agricultural systems and nature. These interests led me to the department of international development,community and Environment (IDCE) where I pursued a Master's in Environmental Science & Policy combined study in Geospatial Analysis and agricultural research. My thesis focused on resilience to climate variability among smallholder coffee farmers in Ethiopia. I examined how smallholder coffee-producing households are adapting their land-use strategies in response to changing precipitation patterns and increased incidence of coffee plant diseases in two different regions of Ethiopia.
@@ -13,6 +20,7 @@ I am interested in the policy and applications of climate mapping vulnerability 
 ## Interests
 
 * GIS and Remote Sensing
+* R and Python programing
 * Climate Change impacts and Adaptation
 * Agricultre and food security
 * Rural and urban connectivity in regards to resilience
