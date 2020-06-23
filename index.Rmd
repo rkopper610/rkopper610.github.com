@@ -1,30 +1,44 @@
 ---
-title: "Untitled"
-author: "Ryan K"
-date: "6/23/2020"
-output: html_document
+title: "Ryan Kopper's website"
+output:
+  html_document:
+    theme: spacelab
 ---
+## About
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+I’ve loved being in nature since I was young, which led me to major in environmental conservation as an undergraduate. After college, I moved to Ethiopia as a Peace Corps volunteer and worked within the agriculture and forestry sectors. I extended my time as a volunteer and worked with Catholic Relief services to engage with the USAID funded Farmer to farmer program. As I continued to work in Ethiopia, I became more interested in the complex interaction between agricultural systems and nature. These interests led me to the department of international development,community and Environment (IDCE) where I pursued a Master's in Environmental Science & Policy combined study in Geospatial Analysis and agricultural research. My thesis focused on resilience to climate variability among smallholder coffee farmers in Ethiopia. I examined how smallholder coffee-producing households are adapting their land-use strategies in response to changing precipitation patterns and increased incidence of coffee plant diseases in two different regions of Ethiopia.
 
-## R Markdown
+I am interested in the policy and applications of climate mapping vulnerability  especially in regards to food security and agriculture. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Interests
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+* GIS and Remote Sensing
+* Climate Change impacts and Adaptation
+* Agricultre and food security
+* Rural and urban connectivity in regards to resilience
 
-```{r cars}
-summary(cars)
-```
+## Projects
 
-## Including Plots
+* Master’s Thesis with grant funded international field research “Climate change threats and opportunities for coffee cultivation in Ethiopia: How are farmers adapting to shifting agricultural scenarios?” Performed 52 farmer/development agent interviews in 4 regions of Ethiopia. Collaborated Ethiopian students, researchers and government agriculture experts to promote coffee sector resilience in Ethiopia. 
 
-You can also embed plots, for example:
+* Super Resolution: Developed a workflow to Enhance Planet-scope imagery using deep learning for multi-temporal super-resolution. This process sharpens the planet scope imagery to allow for clear photo interpretations and decision making.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* Vulnerability assessment concerning varied planting dates for farmers in Zambia due to rainfall variability. Utilized rainfall data (CHIRPS) to calculate the coefficient of variation (CV) of NDVI for growing seasons using Google Earth Engine and R. 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* World Resources Institute (WRI) directed research concerning critical analysis of UN Mitigation strategies and the potential impacts on vulnerable communities.
+
+* Attended and Presented at the UNFCC COP25 representing the Youth Constituency. Collaborated with domestic and international graduate students concerning university contributions to UN Sustainable Development Goal #2 “Zero Hunger”. Oversaw and co-moderated a live streamed Press conference concerning SDG 5 “Gender Equality”. 
+
+
+## Profiles 
+
+* [LinkedIn](https://www.linkedin.com/in/ryan-kopper-526305124/)
+
+* [GitHub](http://github.com/rkopper610)
+
+* [Twitter](https://twitter.com/rkopper610)
+
+## Contact
+
+* [rkopper610@gmail.com](mailto:rkopper610@gmail.com)
+
