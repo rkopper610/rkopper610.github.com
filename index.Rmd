@@ -22,7 +22,7 @@ I am interested in the policy and applications of climate mapping vulnerability 
 * GIS and Remote Sensing
 * R and Python programing
 * Climate Change impacts and Adaptation
-* Agricultre and food security
+* Agriculture and food security
 * Rural and urban connectivity in regards to resilience
 
 ## Projects
