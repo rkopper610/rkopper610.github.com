@@ -13,17 +13,22 @@ output:
 
 ## About
 
-I’ve loved being in nature since I was young, which led me to major in environmental conservation as an undergraduate. After college, I moved to Ethiopia as a Peace Corps volunteer and worked within the agriculture and forestry sectors. I extended my time as a volunteer and worked with Catholic Relief services to engage with the USAID funded Farmer to farmer program. As I continued to work in Ethiopia, I became more interested in the complex interaction between agricultural systems and nature. These interests led me to the department of international development,community and Environment (IDCE) where I pursued a Master's in Environmental Science & Policy combined study in Geospatial Analysis and agricultural research. My thesis focused on resilience to climate variability among smallholder coffee farmers in Ethiopia. I examined how smallholder coffee-producing households are adapting their land-use strategies in response to changing precipitation patterns and increased incidence of coffee plant diseases in two different regions of Ethiopia.
+I’ve loved being in nature since I was young, which led me to major in environmental conservation as an undergraduate. After college, I moved to Ethiopia as a Peace Corps volunteer and worked within the agriculture and forestry sectors. I extended my time as a volunteer and worked with Catholic Relief services to engage with the USAID funded Farmer to farmer program. As I continued to work in Ethiopia, I became more interested in the complex interaction between agricultural systems and nature. These interests led me to the department of international development,community and Environment (IDCE) where I pursued a Master's in Environmental Science & Policy combined study in Geospatial Analysis and agricultural research. My thesis focused on resilience to climate variability among smallholder coffee farmers in Ethiopia. I examined how smallholder coffee-producing households are adapting their land-use strategies in response to changing precipitation patterns and increased incidence of coffee plant diseases in two different regions of Ethiopia. 
 
-I am interested in the policy and applications of climate mapping vulnerability  especially in regards to food security and agriculture. 
+I am interested in the intersection of sustainability and data science. My passions revolve around leveraging policy and emerging technologies to map climate vulnerability especially in regards to food security and agriculture development. 
+
+
 
 ## Interests
 
 * GIS and Remote Sensing
-* R and Python programing
-* Climate Change impacts and Adaptation
+* R and Python programming
+* Climate Change impacts and adaptation
 * Agriculture and food security
+* Risk Assessment (Multi-Attribute Decision Making)
 * Rural and urban connectivity in regards to resilience
+* International Development
+* Environmental protection
 
 ## Projects
 
@@ -36,6 +41,8 @@ I am interested in the policy and applications of climate mapping vulnerability 
 * World Resources Institute (WRI) directed research concerning critical analysis of UN Mitigation strategies and the potential impacts on vulnerable communities.
 
 * Attended and Presented at the UNFCC COP25 representing the Youth Constituency. Collaborated with domestic and international graduate students concerning university contributions to UN Sustainable Development Goal #2 “Zero Hunger”. Oversaw and co-moderated a live streamed Press conference concerning SDG 5 “Gender Equality”. 
+
+* Urban climate resilience assessment focused on Addis Ababa, Ethiopia. Research concentrated on rural-urban connectivity, water access, infrastructure and sanitation sectors. Included a literature review for a NGO based in Ethiopia
 
 
 ## Profiles 
