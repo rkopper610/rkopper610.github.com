@@ -25,7 +25,7 @@ Overall, I am interested in the intersection of sustainability and data science.
 * R and Python programming
 * Climate Change impacts and adaptation
 * Agriculture and food security
-* Risk Assessment (Multi-Attribute Decision Making)
+* Risk Assessment
 * Rural and urban connectivity in regards to resilience
 * International Development
 * Environmental protection
